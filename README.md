@@ -18,7 +18,7 @@ It combines **Exploratory Data Analysis (EDA)** with **Predictive Machine Learni
 
 ## 🖼️ Power BI Dashboard Preview
 
-![Power BI Dashboard - Social Media Ads Performance](https://github.com/Rishabh1108ch/Social_media_Ads_Performance_Gradient-Boosting_Analysis/blob/main/Ads_Performance_PowerBI_Screenshot.png?raw=true)
+![Power BI Dashboard - Social Media Ads Performance](https://github.com/Rishabh1108ch/Social_media_Ads_Performance_Gradient-Boosting_Analysis/blob/main/Ads_performance_analysis_PowerBI.png))
 
 
 ---
