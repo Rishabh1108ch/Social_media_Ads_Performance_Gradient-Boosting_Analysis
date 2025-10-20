@@ -5,7 +5,7 @@
 [![Machine Learning](https://img.shields.io/badge/ML-CatBoost%20%7C%20XGBoost-green.svg)]()
 [![EDA](https://img.shields.io/badge/Data-EDA-orange.svg)]()
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
-[![GitHub](https://img.shields.io/badge/Repo-GitHub-black.svg)](https://github.com/YOUR-USERNAME/YOUR-REPO)
+[![GitHub](https://img.shields.io/badge/Repo-GitHub-black.svg)]([https://github.com/YOUR-USERNAME/YOUR-REPO](https://github.com/Rishabh1108ch))
 [![Notebook](https://img.shields.io/badge/View-Notebook-blueviolet.svg)](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/Analysis.ipynb)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue.svg)](https://www.linkedin.com/in/rishabh-chandrakar)
 
@@ -16,8 +16,10 @@
 This project analyzes a large-scale **social media advertising dataset** to uncover insights into ad performance and predict **user conversion events** (Click, Purchase, Share, Comment, Like).  
 It combines **Exploratory Data Analysis (EDA)** with **Predictive Machine Learning** to optimize ad targeting, audience segmentation, and budget allocation.
 
-🔗 **Live Notebook:** [Jupyter Notebook on GitHub](#)  
-📊 **Dashboard:** [[Power BI Dashboard Screenshot / Image](https://github.com/Rishabh1108ch/Social_media_Ads_Performance_Gradient-Boosting_Analysis/blob/main/Ads_Performance_PowerBI_Screenshot.png)](#)
+## 🖼️ Power BI Dashboard Preview
+
+![Power BI Dashboard - Social Media Ads Performance](https://github.com/Rishabh1108ch/Social_media_Ads_Performance_Gradient-Boosting_Analysis/blob/main/Ads_Performance_PowerBI_Screenshot.png?raw=true)
+
 
 ---
 
@@ -143,7 +145,8 @@ Key insights:
 ## 🔑 About
 **Author:** Rishabh Chandrakar  
 **Focus:** Data Analytics & Supply Chain/Marketing Analytics  
-**Connect:** [LinkedIn](#) | [GitHub](#)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/rishabh-chandrakar) | [GitHub](https://github.com/Rishabh1108ch)
+
 
 ---
 
